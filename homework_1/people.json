@@ -1,0 +1,98 @@
+[
+    {
+        "Name": "Luke Skywalker",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Tatooine"
+    },
+    {
+        "Name": "Leia Organa",
+        "Gender": "Female",
+        "Species": "Human",
+        "Homeworld": "Alderaan"
+    },
+    {
+        "Name": "Han Solo",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Corellia"
+    },
+    {
+        "Name": "Obi-Wan Kenobi",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Stewjon"
+    },
+    {
+        "Name": "Darth Vader",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Tatooine"
+    },
+    {
+        "Name": "Emperor Palpatine",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Naboo"
+    },
+    {
+        "Name": "Padm\u00e9 Amidala",
+        "Gender": "Female",
+        "Species": "Human",
+        "Homeworld": "Naboo"
+    },
+    {
+        "Name": "Lando Calrissian",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Socorro"
+    },
+    {
+        "Name": "Mace Windu",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Haruun Kal"
+    },
+    {
+        "Name": "Qui-Gon Jinn",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Coruscant"
+    },
+    {
+        "Name": "Count Dooku",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Serenno"
+    },
+    {
+        "Name": "Ezra Bridger",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Lothal"
+    },
+    {
+        "Name": "Kanan Jarrus",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Caleb Dume"
+    },
+    {
+        "Name": "Chirrut \u00cemwe",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Jedha"
+    },
+    {
+        "Name": "Galen Erso",
+        "Gender": "Male",
+        "Species": "Human",
+        "Homeworld": "Lah'mu"
+    },
+    {
+        "Name": "Jyn Erso",
+        "Gender": "Female",
+        "Species": "Human",
+        "Homeworld": "Lah'mu"
+    }
+]
