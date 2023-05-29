@@ -1,0 +1,839 @@
+[
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2019,
+    "price": 25000,
+    "color": "blue",
+    "mileage": 15000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2015,
+    "price": 20000,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2018,
+    "color": "black",
+    "mileage": 25000
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "price": 15000,
+    "color": "silver",
+    "mileage": 20000
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "price": 18000,
+    "color": "white",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2017,
+    "price": 17000,
+    "color": "gray",
+    "mileage": 35000
+  },
+  {
+    "make": "Ford",
+    "model": "F-150",
+    "year": 2019,
+    "color": "black",
+    "mileage": 15000
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "price": 20000,
+    "color": "blue",
+    "mileage": 10000
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2014,
+    "price": 12000,
+    "color": "silver",
+    "mileage": 60000
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2015,
+    "price": 10000,
+    "color": "red",
+    "mileage": 50000
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2018,
+    "price": 15000,
+    "color": "white",
+    "mileage": 30000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Impala",
+    "year": 2016,
+    "price": 13000,
+    "color": "black",
+    "mileage": 40000
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 2020,
+    "color": "gray",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Rav4",
+    "year": 2019,
+    "price": 22000,
+    "color": "blue",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2017,
+    "price": 18000,
+    "color": "white",
+    "mileage": 35000
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2015,
+    "price": 16000,
+    "color": "silver",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2018,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2020,
+    "price": 20000,
+    "color": "blue",
+    "mileage": 15000
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2016,
+    "price": 25000,
+    "color": "black",
+    "mileage": 40000
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2019,
+    "price": 30000,
+    "color": "white",
+    "mileage": 20000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2015,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "year": 2018,
+    "price": 27000,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 2017,
+    "price": 25000,
+    "color": "blue",
+    "mileage": 35000
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "year": 2020,
+    "color": "black",
+    "mileage": 20000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2019,
+    "price": 32000,
+    "color": "white",
+    "mileage": 15000
+  },
+  {
+    "make": "Honda",
+    "model": "Odyssey",
+    "year": 2016,
+    "price": 22000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": 2018,
+    "price": 35000,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Armada",
+    "year": 2020,
+    "price": 38000,
+    "color": "blue",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Sienna",
+    "year": 2017,
+    "price": 25000,
+    "color": "gray",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": 2019,
+    "color": "black",
+    "mileage": 30000
+  },
+  {
+    "make": "Honda",
+    "model": "Fit",
+    "year": 2015,
+    "price": 15000,
+    "color": "blue",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Spark",
+    "year": 2018,
+    "price": 13000,
+    "color": "red",
+    "mileage": 35000
+  },
+  {
+    "make": "Nissan",
+    "model": "Versa",
+    "year": 2020,
+    "color": "gray",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2019,
+    "price": 15000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2017,
+    "price": 12000,
+    "color": "blue",
+    "mileage": 30000
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "price": 18000,
+    "color": "red",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "price": 17000,
+    "color": "gray",
+    "mileage": 35000
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "price": 20000,
+    "color": "blue",
+    "mileage": 10000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2014,
+    "price": 12000,
+    "color": "silver",
+    "mileage": 60000
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2015,
+    "price": 10000,
+    "color": "red",
+    "mileage": 50000
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2018,
+    "price": 15000,
+    "color": "white",
+    "mileage": 30000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Impala",
+    "year": 2016,
+    "price": 13000,
+    "color": "black",
+    "mileage": 40000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2020,
+    "price": 15000,
+    "color": "gray",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Rav4",
+    "year": 2019,
+    "price": 22000,
+    "color": "blue",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2017,
+    "price": 18000,
+    "color": "white",
+    "mileage": 35000
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2015,
+    "price": 16000,
+    "color": "silver",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2018,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2020,
+    "price": 20000,
+    "color": "blue",
+    "mileage": 15000
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2016,
+    "price": 25000,
+    "color": "black",
+    "mileage": 40000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2019,
+    "price": 30000,
+    "color": "white",
+    "mileage": 20000
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2015,
+    "price": 22000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "year": 2018,
+    "price": 27000,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 2017,
+    "price": 25000,
+    "color": "blue",
+    "mileage": 35000
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "year": 2020,
+    "color": "black",
+    "mileage": 20000
+  },
+  {
+    "make": "Ford",
+    "model": "Edge",
+    "year": 2019,
+    "price": 32000,
+    "color": "white",
+    "mileage": 15000
+  },
+  {
+    "make": "Honda",
+    "model": "Odyssey",
+    "year": 2016,
+    "price": 22000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": 2018,
+    "price": 35000,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Armada",
+    "year": 2020,
+    "price": 38000,
+    "color": "blue",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Sienna",
+    "year": 2017,
+    "price": 25000,
+    "color": "gray",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": 2019,
+    "color": "black",
+    "mileage": 30000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2015,
+    "price": 15000,
+    "color": "blue",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Spark",
+    "year": 2018,
+    "price": 13000,
+    "color": "red",
+    "mileage": 35000
+  },
+  {
+    "make": "Nissan",
+    "model": "Versa",
+    "year": 2020,
+    "color": "gray",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2019,
+    "price": 15000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2017,
+    "price": 22000,
+    "color": "blue",
+    "mileage": 30000
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "price": 18000,
+    "color": "red",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "price": 17000,
+    "color": "gray",
+    "mileage": 35000
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "price": 20000,
+    "color": "blue",
+    "mileage": 10000
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2014,
+    "price": 12000,
+    "color": "silver",
+    "mileage": 60000
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2015,
+    "price": 10000,
+    "color": "red",
+    "mileage": 50000
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2018,
+    "price": 15000,
+    "color": "white",
+    "mileage": 30000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Impala",
+    "year": 2016,
+    "price": 13000,
+    "color": "black",
+    "mileage": 40000
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 2020,
+    "color": "gray",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Rav4",
+    "year": 2019,
+    "price": 22000,
+    "color": "blue",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2017,
+    "price": 18000,
+    "color": "white",
+    "mileage": 35000
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2015,
+    "price": 16000,
+    "color": "silver",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2018,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2020,
+    "price": 20000,
+    "color": "blue",
+    "mileage": 15000
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2016,
+    "price": 25000,
+    "color": "black",
+    "mileage": 40000
+  },
+  {
+    "make": "Ford",
+    "model": "Explorer",
+    "year": 2019,
+    "price": 30000,
+    "color": "white",
+    "mileage": 20000
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2015,
+    "price": 22000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Traverse",
+    "year": 2018,
+    "price": 27000,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Pathfinder",
+    "year": 2017,
+    "price": 25000,
+    "color": "blue",
+    "mileage": 35000
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "year": 2020,
+    "color": "black",
+    "mileage": 20000
+  },
+  {
+    "make": "Ford",
+    "model": "Edge",
+    "year": 2019,
+    "price": 32000,
+    "color": "white",
+    "mileage": 15000
+  },
+  {
+    "make": "Honda",
+    "model": "Odyssey",
+    "year": 2016,
+    "price": 22000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "year": 2018,
+    "price": 35000,
+    "color": "red",
+    "mileage": 30000
+  },
+  {
+    "make": "Nissan",
+    "model": "Armada",
+    "year": 2020,
+    "price": 38000,
+    "color": "blue",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Sienna",
+    "year": 2017,
+    "price": 25000,
+    "color": "gray",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Expedition",
+    "year": 2019,
+    "color": "black",
+    "mileage": 30000
+  },
+  {
+    "make": "Honda",
+    "model": "Fit",
+    "year": 2015,
+    "price": 15000,
+    "color": "blue",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Spark",
+    "year": 2018,
+    "price": 13000,
+    "color": "red",
+    "mileage": 35000
+  },
+  {
+    "make": "Nissan",
+    "model": "Versa",
+    "year": 2020,
+    "color": "gray",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Yaris",
+    "year": 2019,
+    "price": 15000,
+    "color": "silver",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2017,
+    "price": 12000,
+    "color": "blue",
+    "mileage": 30000
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2016,
+    "price": 18000,
+    "color": "red",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2018,
+    "price": 17000,
+    "color": "gray",
+    "mileage": 35000
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2021,
+    "price": 20000,
+    "color": "blue",
+    "mileage": 10000
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2014,
+    "price": 12000,
+    "color": "silver",
+    "mileage": 60000
+  },
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2015,
+    "price": 10000,
+    "color": "red",
+    "mileage": 50000
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2018,
+    "price": 15000,
+    "color": "white",
+    "mileage": 30000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Impala",
+    "year": 2016,
+    "price": 13000,
+    "color": "black",
+    "mileage": 40000
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 2020,
+    "color": "gray",
+    "mileage": 20000
+  },
+  {
+    "make": "Toyota",
+    "model": "Rav4",
+    "year": 2019,
+    "price": 22000,
+    "color": "blue",
+    "mileage": 25000
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2017,
+    "price": 18000,
+    "color": "white",
+    "mileage": 35000
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2015,
+    "price": 16000,
+    "color": "silver",
+    "mileage": 40000
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2018,
+    "color": "red",
+    "mileage": 30000
+  }
+]
