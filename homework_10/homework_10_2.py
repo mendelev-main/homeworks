@@ -20,15 +20,14 @@ class Car:
 
 my_cars = []
 for i in text:
+    try:
+        car = Car(i['make'], i['model'], i['year'], i['price'], i['color'], i['mileage'])
+    except KeyError:
+        continue
     if i['make'] == 'Ford' and i['model'] == 'Mustang':
-        try:
-            car = Car(i['make'], i['model'], i['year'], i['price'], i['color'], i['mileage'])
-        except KeyError:
-            continue
-        print(i)
         my_cars.append(i)
 
 counter = 0
 for i in my_cars:
     counter += i['price']
-print(f'average cos - {int(counter / len(my_cars))}')
+print(f'average cost Ford Mustang - {int(counter / len(my_cars))}')
