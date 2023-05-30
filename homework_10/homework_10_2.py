@@ -4,9 +4,6 @@
 import dataclasses
 import json
 
-with open('cars.json', 'r', encoding='utf-8') as f:
-    text = json.load(f)
-
 
 @dataclasses.dataclass
 class Car:
@@ -18,6 +15,9 @@ class Car:
     mileage: int
 
 
+with open('cars.json', 'r', encoding='utf-8') as f:
+    text = json.load(f)
+
 my_cars = []
 for i in text:
     try:
@@ -25,9 +25,9 @@ for i in text:
     except KeyError:
         continue
     if i['make'] == 'Ford' and i['model'] == 'Mustang':
-        my_cars.append(i)
+        my_cars.append(car)
 
 counter = 0
-for i in my_cars:
-    counter += i['price']
+for car in my_cars:
+    counter += car.price
 print(f'average cost Ford Mustang - {int(counter / len(my_cars))}')

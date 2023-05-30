@@ -7,26 +7,26 @@
 from random import randint
 
 
-def comparison():
+def play_guess_number():
     random_number = randint(0, 100)
 
     while True:
-        custom_number = [entered_number()]
-        if int(*custom_number) < random_number:
+        custom_number = ask_number()
+        if custom_number < random_number:
             print('your number < hidden number')
-        if int(*custom_number) > random_number:
+        if custom_number > random_number:
             print('your number > hidden number')
-        if int(*custom_number) == random_number:
+        if custom_number == random_number:
             print('you guessed')
             break
 
 
-def entered_number():
+def ask_number():
     while True:
         try:
             return int(input('Enter your number - '))
         except ValueError:
-            print('You entered bed data')
+            print('You entered bad data')
 
 
-comparison()
+play_guess_number()
