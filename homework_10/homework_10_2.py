@@ -24,10 +24,8 @@ for i in text:
         car = Car(i['make'], i['model'], i['year'], i['price'], i['color'], i['mileage'])
     except KeyError:
         continue
-    if i['make'] == 'Ford' and i['model'] == 'Mustang':
-        my_cars.append(car)
+    my_cars.append(car)
 
-counter = 0
-for car in my_cars:
-    counter += car.price
-print(f'average cost Ford Mustang - {int(counter / len(my_cars))}')
+ford_mustang = [car.price for car in my_cars if car.make == 'Ford' and car.model == 'Mustang']
+
+print(f'average cost Ford Mustang - {int(sum(ford_mustang) / len(ford_mustang))}')
