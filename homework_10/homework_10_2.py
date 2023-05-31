@@ -21,7 +21,8 @@ with open('cars.json', 'r', encoding='utf-8') as f:
 my_cars = []
 for i in text:
     try:
-        car = Car(i['make'], i['model'], i['year'], i['price'], i['color'], i['mileage'])
+        car = Car(make=i['make'], model=i['model'], year=i['year'], price=i['price'], color=i['color'],
+                  mileage=i['mileage'])
     except KeyError:
         continue
     my_cars.append(car)
