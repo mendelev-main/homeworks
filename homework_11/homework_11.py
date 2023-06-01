@@ -14,8 +14,9 @@
 # 34
 
 def fibonacci(n):
-    a, b = 0, 1
-    for __ in range(n):
+    a = 0
+    b = 1
+    for _ in range(n):
         yield a
         a, b = b, a + b
 
