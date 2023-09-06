@@ -11,7 +11,7 @@ def read_number():
         try:
             return int(input("enter number - "))
         except ValueError:
-            print('You entered bed data')
+            print("You entered bed data")
 
 
 while True:

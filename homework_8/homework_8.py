@@ -1,8 +1,8 @@
 import time
 
-class Auto:
 
-    def __init__(self, brand, age, mark, color='black', weight=2):
+class Auto:
+    def __init__(self, brand, age, mark, color="black", weight=2):
         self.brand = brand
         self.age = age
         self.color = color
@@ -17,11 +17,10 @@ class Auto:
 
     def birthday(self):
         self.age += 1
-        print(f'auto.birthday= {self.age}')
+        print(f"auto.birthday= {self.age}")
 
 
-auto = Auto('Ford', 6, 'Fusion', 'green', 8)
-
+auto = Auto("Ford", 6, "Fusion", "green", 8)
 
 
 class Truck(Auto):
@@ -35,16 +34,16 @@ class Truck(Auto):
 
     def load(self):
         time.sleep(1)
-        print('load')
+        print("load")
         time.sleep(1)
 
     @property
     def info(self):
-        return f'{self.brand=} {self.age=} {self.mark=} {self.color=} {self.weight=} {self.max_load=}'
+        return f"{self.brand=} {self.age=} {self.mark=} {self.color=} {self.weight=} {self.max_load=}"
 
 
-truck = Truck('Ford', 6, 'Fusion', 'black', 2, 100)
-truck_two = Truck('Peugeot', 4, '806', 'silver', 2, 120)
+truck = Truck("Ford", 6, "Fusion", "black", 2, 100)
+truck_two = Truck("Peugeot", 4, "806", "silver", 2, 120)
 
 print(truck.info)
 truck.move()
@@ -62,15 +61,15 @@ class Car(Auto):
 
     def move(self):
         super().move()
-        print(f'max_speed is {self.max_speed}')
+        print(f"max_speed is {self.max_speed}")
 
     @property
     def info(self):
-        return f'{self.brand=} {self.age=} {self.mark=} {self.color=} {self.weight=} {self.max_speed=}'
+        return f"{self.brand=} {self.age=} {self.mark=} {self.color=} {self.weight=} {self.max_speed=}"
 
 
-car = Car('Ford', 6, 'Fusion', 'black', 2, 320)
-car_two = Car('Peugeot', 4, '806', 'silver', 2, 210)
+car = Car("Ford", 6, "Fusion", "black", 2, 320)
+car_two = Car("Peugeot", 4, "806", "silver", 2, 210)
 
 print(car.info)
 car.move()

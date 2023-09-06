@@ -13,20 +13,20 @@ def play_guess_number():
     while True:
         custom_number = ask_number()
         if custom_number < random_number:
-            print('your number < hidden number')
+            print("your number < hidden number")
         if custom_number > random_number:
-            print('your number > hidden number')
+            print("your number > hidden number")
         if custom_number == random_number:
-            print('you guessed')
+            print("you guessed")
             break
 
 
 def ask_number():
     while True:
         try:
-            return int(input('Enter your number - '))
+            return int(input("Enter your number - "))
         except ValueError:
-            print('You entered bad data')
+            print("You entered bad data")
 
 
 play_guess_number()

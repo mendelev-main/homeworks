@@ -15,18 +15,26 @@ class Car:
     mileage: int
 
 
-with open('cars.json', 'r', encoding='utf-8') as f:
+with open("cars.json", "r", encoding="utf-8") as f:
     text = json.load(f)
 
 my_cars = []
 for i in text:
     try:
-        car = Car(make=i['make'], model=i['model'], year=i['year'], price=i['price'], color=i['color'],
-                  mileage=i['mileage'])
+        car = Car(
+            make=i["make"],
+            model=i["model"],
+            year=i["year"],
+            price=i["price"],
+            color=i["color"],
+            mileage=i["mileage"],
+        )
     except KeyError:
         continue
     my_cars.append(car)
 
-ford_mustang = [car.price for car in my_cars if car.make == 'Ford' and car.model == 'Mustang']
+ford_mustang = [
+    car.price for car in my_cars if car.make == "Ford" and car.model == "Mustang"
+]
 
-print(f'average cost Ford Mustang - {int(sum(ford_mustang) / len(ford_mustang))}')
+print(f"average cost Ford Mustang - {int(sum(ford_mustang) / len(ford_mustang))}")
