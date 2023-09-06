@@ -1,0 +1,434 @@
+[
+  {
+    "state-province": null,
+    "name": "Academy of Music, Dance and Fine Arts",
+    "web_pages": [
+      "http://amti.hit.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "amti.hit.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "American University in Bulgaria",
+    "web_pages": [
+      "http://www.aubg.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "aubg.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Agricultural University of Plovdiv",
+    "web_pages": [
+      "http://www.au-plovdiv.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "au-plovdiv.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Bourgas Free University",
+    "web_pages": [
+      "http://www.bfu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "bfu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Bourgas University \"Prof. Assen Zlatarov\"",
+    "web_pages": [
+      "http://www.btu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "btu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "City University Programs in Bulgaria",
+    "web_pages": [
+      "http://www.cityu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "cityu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Forestry Sofia",
+    "web_pages": [
+      "http://www.ltu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "ltu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Medical University Plovdiv",
+    "web_pages": [
+      "http://www.meduniversity-plovdiv.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "meduniversity-plovdiv.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Mining and Geology \"St. Ivan Rils\"",
+    "web_pages": [
+      "http://www.mgu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "mgu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Medical University Pleven",
+    "web_pages": [
+      "http://www.mu-pleven.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "mu-pleven.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Medical University of Sofia",
+    "web_pages": [
+      "http://www.mu-sofia.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "mu-sofia.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Medical University Varna",
+    "web_pages": [
+      "http://www.mu-varna.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "mu-varna.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "National Academy for Theatre and Film Arts \"Krustju Sarafov\"",
+    "web_pages": [
+      "http://www.natfiz.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "natfiz.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "New Bulgarian University",
+    "web_pages": [
+      "http://www.nbu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "nbu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "National Academy of Arts",
+    "web_pages": [
+      "http://www.nha-bg.org/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "nha-bg.org"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "National Academy of Music \"Pantcho Vladigerov\"",
+    "web_pages": [
+      "http://www.nma.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "nma.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "National Sports Academy Sofia",
+    "web_pages": [
+      "http://www.nsa.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "nsa.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Military University Shoumen",
+    "web_pages": [
+      "http://www.pv-ma.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "pv-ma.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Rousse",
+    "web_pages": [
+      "http://www.ru.acad.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "ru.acad.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Shoumen University \"Konstantin Preslavski\"",
+    "web_pages": [
+      "http://www.shu-bg.net/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "shu-bg.net"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "South-West University \"Neofit Rilski\"",
+    "web_pages": [
+      "http://www.swu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "swu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Technical University of Gabrovo",
+    "web_pages": [
+      "http://www.tugab.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "tugab.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Technical University of Sofia",
+    "web_pages": [
+      "http://www.tu-sofia.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "tu-sofia.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Technical University of Varna",
+    "web_pages": [
+      "http://www.tu-varna.acad.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "tu-varna.acad.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Architecture, Civil Engineering and Geodesy",
+    "web_pages": [
+      "http://www.uacg.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uacg.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Chemical Technology and Metallurgy",
+    "web_pages": [
+      "http://www.uctm.edu/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uctm.edu"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Economics Varna",
+    "web_pages": [
+      "http://www.ue-varna.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "ue-varna.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Food Technology",
+    "web_pages": [
+      "http://www.uft-plovdiv.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uft-plovdiv.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of Plovdiv",
+    "web_pages": [
+      "http://www.uni-plovdiv.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uni-plovdiv.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Sofia University \"St. Kliment Ohridski\"",
+    "web_pages": [
+      "http://www.uni-sofia.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uni-sofia.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Academy of Economics \"Dimitur A. Tscenov\"",
+    "web_pages": [
+      "http://www.uni-svishtov.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uni-svishtov.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Trakia University Stara Zagora",
+    "web_pages": [
+      "http://www.uni-sz.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uni-sz.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Veliko Turnovo University \"Cyril and Methodius\"",
+    "web_pages": [
+      "http://www.uni-vt.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "uni-vt.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "University of National and World Economy",
+    "web_pages": [
+      "http://www.unwe.acad.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "unwe.acad.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "Varna Free University",
+    "web_pages": [
+      "http://www.vfu.bg/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "vfu.bg"
+    ],
+    "alpha_two_code": "BG"
+  },
+  {
+    "state-province": null,
+    "name": "International University College",
+    "web_pages": [
+      "http://www.vumk.eu/"
+    ],
+    "country": "Bulgaria",
+    "domains": [
+      "vumk.eu"
+    ],
+    "alpha_two_code": "BG"
+  }
+]

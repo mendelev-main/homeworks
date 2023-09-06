@@ -1,0 +1,434 @@
+[
+  {
+    "state-province": null,
+    "name": "Blekinge Institute of Technology",
+    "web_pages": [
+      "http://www.bth.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "bth.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Chalmers University of Technology",
+    "web_pages": [
+      "http://www.chalmers.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "chalmers.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Dalarna University College",
+    "web_pages": [
+      "http://www.du.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "du.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "G\u00f6teborg University",
+    "web_pages": [
+      "http://www.gu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "gu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "University College of Bor\u00e5s",
+    "web_pages": [
+      "http://www.hb.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hb.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "School of Design and Crafts",
+    "web_pages": [
+      "http://www.hdk.gu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hdk.gu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Gotland University College",
+    "web_pages": [
+      "http://www.hgo.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hgo.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Halmstad University College",
+    "web_pages": [
+      "http://www.hh.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hh.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Stockholm School of Economics",
+    "web_pages": [
+      "http://www.hhs.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hhs.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "University College of G\u00e4vle",
+    "web_pages": [
+      "http://www.hig.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hig.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Kalmar University College",
+    "web_pages": [
+      "http://www.hik.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hik.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "University College of Sk\u00f6vde",
+    "web_pages": [
+      "http://www.his.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "his.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "J\u00f6nk\u00f6ping University College",
+    "web_pages": [
+      "http://www.hj.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hj.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "University College of Kristianstad",
+    "web_pages": [
+      "http://www.hkr.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "hkr.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "University College of Trollh\u00e4ttan/Uddevalla",
+    "web_pages": [
+      "http://www.htu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "htu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Karlstad University",
+    "web_pages": [
+      "http://www.kau.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "kau.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Karolinska Institute Stockholm",
+    "web_pages": [
+      "http://www.ki.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "ki.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "University College of Arts, Crafts and Design",
+    "web_pages": [
+      "http://www.konstfack.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "konstfack.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "KTH Royal Institute of Technology",
+    "web_pages": [
+      "http://www.kth.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "kth.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Stockholm Institute of Education",
+    "web_pages": [
+      "http://www.lhs.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "lhs.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Link\u00f6ping University",
+    "web_pages": [
+      "http://www.liu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "liu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Lund University",
+    "web_pages": [
+      "http://www.lu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "lu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Lulea University of Technology",
+    "web_pages": [
+      "http://www.luth.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "luth.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Malm\u00f6 University College",
+    "web_pages": [
+      "http://www.mah.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "mah.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "M\u00e4lardalen University",
+    "web_pages": [
+      "http://www.mdh.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "mdh.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Mid-Sweden University",
+    "web_pages": [
+      "http://www.miun.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "miun.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Nordic School of Public Health",
+    "web_pages": [
+      "http://www.nhv.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "nhv.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "\u00d6rebro University",
+    "web_pages": [
+      "http://www.oru.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "oru.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "S\u00f6dert\u00f6rn University College",
+    "web_pages": [
+      "http://www.sh.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "sh.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Swedish University of Agricultural Sciences",
+    "web_pages": [
+      "http://www.slu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "slu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Free University Stockholm",
+    "web_pages": [
+      "http://www.stockholm-fu.com/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "stockholm-fu.com"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Stockholm University",
+    "web_pages": [
+      "http://www.su.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "su.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Umea University",
+    "web_pages": [
+      "http://www.umu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "umu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "Uppsala University",
+    "web_pages": [
+      "http://www.uu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "uu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "V\u00e4xj\u00f6 University",
+    "web_pages": [
+      "http://www.vxu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "vxu.se"
+    ],
+    "alpha_two_code": "SE"
+  },
+  {
+    "state-province": null,
+    "name": "World Maritime University",
+    "web_pages": [
+      "http://www.wmu.se/"
+    ],
+    "country": "Sweden",
+    "domains": [
+      "wmu.se"
+    ],
+    "alpha_two_code": "SE"
+  }
+]

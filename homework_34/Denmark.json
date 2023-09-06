@@ -1,0 +1,388 @@
+[
+  {
+    "state-province": null,
+    "name": "Aarhus School of Architecture",
+    "web_pages": [
+      "http://www.a-aarhus.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "a-aarhus.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Aalborg Business College",
+    "web_pages": [
+      "http://www.ah.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ah.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Aarhus Technical College",
+    "web_pages": [
+      "http://www.ats.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ats.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Aalborg University",
+    "web_pages": [
+      "http://www.auc.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "auc.dk",
+      "aau.dk",
+      "student.aau.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Aarhus University",
+    "web_pages": [
+      "http://www.au.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "au.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Copenhagen Business School",
+    "web_pages": [
+      "http://www.cbs.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "cbs.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal School of Library and Information Science",
+    "web_pages": [
+      "http://www.db.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "db.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Danish Business Academy",
+    "web_pages": [
+      "http://www.ddea.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ddea.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Danish School of Pharmacy",
+    "web_pages": [
+      "http://www.dfh.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "dfh.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Danish Academy of Music",
+    "web_pages": [
+      "http://www.dkdm.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "dkdm.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Danish School of Educational Sciences",
+    "web_pages": [
+      "http://www.dlh.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "dlh.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Danish University of Education",
+    "web_pages": [
+      "http://www.dpu.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "dpu.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Technical University of Denmark",
+    "web_pages": [
+      "http://www.dtu.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "dtu.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Aarhus School of Business",
+    "web_pages": [
+      "http://www.hha.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "hha.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Southern Denmark Business School",
+    "web_pages": [
+      "http://www.hhs.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "hhs.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "International Business School of Scandinavia",
+    "web_pages": [
+      "http://www.ibss.eu/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ibss.eu"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Engineering College of Aarhus",
+    "web_pages": [
+      "http://www.iha.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "iha.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Engineering College of Copenhagen",
+    "web_pages": [
+      "http://www.ihk.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ihk.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "International People's College",
+    "web_pages": [
+      "http://www.ipc.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ipc.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "IT University of Copenhagen",
+    "web_pages": [
+      "http://www.itu.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "itu.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Danish Academy of Fine Arts, School of Architecture",
+    "web_pages": [
+      "http://www.karch.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "karch.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Knightsbridge University",
+    "web_pages": [
+      "http://www.knightsbridgeuniversity.com/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "knightsbridgeuniversity.com"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Copenhagen University",
+    "web_pages": [
+      "http://www.ku.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ku.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Danish Academy of Fine Arts, School of Visual Art",
+    "web_pages": [
+      "http://www.kunstakademiet.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "kunstakademiet.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Veterinary and Agricultural University",
+    "web_pages": [
+      "http://www.kvl.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "kvl.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Academy of Music",
+    "web_pages": [
+      "http://www.musik-kons.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "musik-kons.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Odense University",
+    "web_pages": [
+      "http://www.ou.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ou.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Roskilde University",
+    "web_pages": [
+      "http://www.ruc.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "ruc.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "University of Southern Denmark - SDU",
+    "web_pages": [
+      "http://www.sdu.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "sdu.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Lutheran School Of Theology In Aarhus",
+    "web_pages": [
+      "http://www.teologi.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "teologi.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "Tietgen Business College",
+    "web_pages": [
+      "http://www.tietgen.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "tietgen.dk"
+    ],
+    "alpha_two_code": "DK"
+  },
+  {
+    "state-province": null,
+    "name": "VIA University College",
+    "web_pages": [
+      "https://en.via.dk/"
+    ],
+    "country": "Denmark",
+    "domains": [
+      "en.via.dk"
+    ],
+    "alpha_two_code": "DK"
+  }
+]
