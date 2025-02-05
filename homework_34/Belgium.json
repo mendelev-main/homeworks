@@ -1,0 +1,610 @@
+[
+  {
+    "state-province": null,
+    "name": "Brexgata University Academy",
+    "web_pages": [
+      "http://www.brexgata.eu/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "brexgata.eu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "European Carolus Magnus University",
+    "web_pages": [
+      "http://www.carolus-magnus-university.eu/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "carolus-magnus-university.eu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "College of Europe",
+    "web_pages": [
+      "http://www.coleurope.eu/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "coleurope.eu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Continental Theological Seminary",
+    "web_pages": [
+      "http://www.ctsem.edu/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ctsem.edu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "ECAM - Institut Sup\u00e9rieur Industriel",
+    "web_pages": [
+      "http://www.ecam.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ecam.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Erasmushogeschool Brussel",
+    "web_pages": [
+      "http://www.ehb.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ehb.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "EHSAL - Europese Hogeschool Brussel",
+    "web_pages": [
+      "http://www.ehsal.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ehsal.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Evangelische Theologische Faculteit, Leuven",
+    "web_pages": [
+      "http://www.etf.edu/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "etf.edu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "European International University",
+    "web_pages": [
+      "http://www.europeaniu.org/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "europeaniu.org"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Facult\u00e9 Polytechnique de Mons",
+    "web_pages": [
+      "http://www.fpms.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "fpms.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Facult\u00e9 Universitaire des Sciences Agronomiques de Gembloux",
+    "web_pages": [
+      "http://www.fsagx.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "fsagx.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Facult\u00e9s Universitaires Catholiques de Mons",
+    "web_pages": [
+      "http://www.fucam.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "fucam.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Fondation Universitaire Luxembourgeoise",
+    "web_pages": [
+      "http://www.ful.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ful.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Facult\u00e9s Universitaires Notre-Dame de la Paix",
+    "web_pages": [
+      "http://www.fundp.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "fundp.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Facult\u00e9s Universitaires Saint-Louis",
+    "web_pages": [
+      "http://www.fusl.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "fusl.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Hogeschool Antwerpen",
+    "web_pages": [
+      "http://www.ha.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ha.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Hogeschool West-Vlaanderen (TU)",
+    "web_pages": [
+      "http://www.howest.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "howest.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Hogere Zeevaartschool - Maritime Academy",
+    "web_pages": [
+      "http://www.hzs.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "hzs.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Brussels Management School (ICHEC)",
+    "web_pages": [
+      "http://www.ichec.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ichec.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Karel De Grote Hogeschool",
+    "web_pages": [
+      "http://www.kdg.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "kdg.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Katholieke Hogeschool Kempen",
+    "web_pages": [
+      "http://www.khk.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "khk.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Katholieke Hogeschool Leuven",
+    "web_pages": [
+      "http://www.khleuven.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "khleuven.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Katholieke Hogeschool Limburg",
+    "web_pages": [
+      "http://www.khlim.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "khlim.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Katholieke Universiteit Brussel",
+    "web_pages": [
+      "http://www.kubrussel.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "kubrussel.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Katholieke Universiteit Leuven, Campus Kortrijk",
+    "web_pages": [
+      "http://www.kulak.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "kulak.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Katholieke Universiteit Leuven",
+    "web_pages": [
+      "http://www.kuleuven.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "kuleuven.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Royal Military Academy",
+    "web_pages": [
+      "http://www.rma.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "rma.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Universiteit Gent",
+    "web_pages": [
+      "https://www.ugent.be/",
+      "http://www.rug.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ugent.be",
+      "rug.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Thierry Graduate School of Leadership",
+    "web_pages": [
+      "http://www.thierryschool.org/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "thierryschool.org"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Universiteit Antwerpen",
+    "web_pages": [
+      "http://www.ua.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ua.ac.be",
+      "uantwerpen.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Universiteit Antwerpen Management School",
+    "web_pages": [
+      "http://www.uams.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "uams.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "United Business Institute",
+    "web_pages": [
+      "http://www.ubi.edu/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ubi.edu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Universit\u00e9 Catholique de Louvain",
+    "web_pages": [
+      "http://www.ucl.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ucl.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Universiteit Antwerpen, UFSIA",
+    "web_pages": [
+      "http://www.ufsia.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ufsia.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Hasselt University",
+    "web_pages": [
+      "http://www.uhasselt.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "uhasselt.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Universit\u00e9 Libre de Bruxelles",
+    "web_pages": [
+      "https://www.ulb.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "ulb.be",
+      "ulb.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Universit\u00e9 de Mons-Hainaut",
+    "web_pages": [
+      "http://www.umh.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "umh.ac.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Vesalius College",
+    "web_pages": [
+      "http://www.vesalius.edu/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "vesalius.edu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Hogeschool voor Wetenschap en Kunst (VLEKHO), Brussel",
+    "web_pages": [
+      "http://www.vlekho.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "vlekho.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Vlerick Leuven Gent Management School",
+    "web_pages": [
+      "http://www.vlerick.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "vlerick.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Vrije Universiteit Brussel",
+    "web_pages": [
+      "http://www.vub.ac.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "vub.ac.be",
+      "vub.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Hogeschool voor Wetenschap & Kunst",
+    "web_pages": [
+      "http://www.wenk.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "wenk.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "University College Odisee",
+    "web_pages": [
+      "https://www.odisee.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "odisee.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Hogeschool Gent",
+    "web_pages": [
+      "https://www.hogent.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "hogent.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Thomas More Hogeschool",
+    "web_pages": [
+      "https://www.thomasmore.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "thomasmore.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "University of Li\u00e8ge",
+    "web_pages": [
+      "https://uliege.be"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "student.uliege.be",
+      "helpnet.uliege.be",
+      "ddi.uliege.be",
+      "uliege.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Louvain School of Management",
+    "web_pages": [
+      "https://uclouvain.be/en/faculties/lsm"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "uclouvain.be"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Solvay Brussels School Economics & Management",
+    "web_pages": [
+      "https://exed.solvay.edu/fr/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "exed.solvay.edu"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Vlerick Brussels Campus",
+    "web_pages": [
+      "https://www.vlerick.com/en/about-vlerick/our-campuses/brussels-campus/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "vlerick.com"
+    ],
+    "alpha_two_code": "BE"
+  },
+  {
+    "state-province": null,
+    "name": "Howest University of Applied Sciences",
+    "web_pages": [
+      "https://www.howest.be/"
+    ],
+    "country": "Belgium",
+    "domains": [
+      "howest.be"
+    ],
+    "alpha_two_code": "BE"
+  }
+]

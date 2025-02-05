@@ -1,0 +1,278 @@
+[
+  {
+    "state-province": null,
+    "name": "Oslo School of Architecture",
+    "web_pages": [
+      "http://www.aho.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "aho.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian School of Management BI",
+    "web_pages": [
+      "http://www.bi.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "bi.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Agder University College",
+    "web_pages": [
+      "http://www.hia.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "hia.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Bergen University College",
+    "web_pages": [
+      "http://www.hib.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "hib.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Bodo Regional University",
+    "web_pages": [
+      "http://www.hibo.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "hibo.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Finnmark University College",
+    "web_pages": [
+      "http://www.hifm.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "hifm.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Lillehammer University College",
+    "web_pages": [
+      "http://www.hil.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "hil.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Molde University College",
+    "web_pages": [
+      "http://www.himolde.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "himolde.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "National College of Art and Design",
+    "web_pages": [
+      "http://www.khio.no/shks/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "khio.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian School of Economics and Business Administration",
+    "web_pages": [
+      "http://www.nhh.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "nhh.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian University of Sport and Physical Education",
+    "web_pages": [
+      "http://www.nih.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "nih.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norway's Information Technology University College",
+    "web_pages": [
+      "http://www.nith.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "nith.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian Teacher Academy for Studies in Religion and Education",
+    "web_pages": [
+      "http://www.nla.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "nla.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Agricultural University of Norway",
+    "web_pages": [
+      "http://www.nlh.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "nlh.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian State Academy of Music",
+    "web_pages": [
+      "http://www.nmh.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "nmh.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian University of Science and Technology",
+    "web_pages": [
+      "http://www.ntnu.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "ntnu.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "National Academy of Fine Arts",
+    "web_pages": [
+      "http://ska.khio.no/main"
+    ],
+    "country": "Norway",
+    "domains": [
+      "ska.khio.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "University of Bergen",
+    "web_pages": [
+      "http://www.uib.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "uib.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "University of Oslo",
+    "web_pages": [
+      "http://www.uio.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "uio.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "University of Stavanger",
+    "web_pages": [
+      "http://www.uis.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "uis.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "University of Troms\u00f8",
+    "web_pages": [
+      "http://www.uit.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "uit.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian University of Life Sciences",
+    "web_pages": [
+      "http://www.umb.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "umb.no"
+    ],
+    "alpha_two_code": "NO"
+  },
+  {
+    "state-province": null,
+    "name": "Norwegian College of Veterinary Medicine",
+    "web_pages": [
+      "http://www.veths.no/"
+    ],
+    "country": "Norway",
+    "domains": [
+      "veths.no"
+    ],
+    "alpha_two_code": "NO"
+  }
+]
